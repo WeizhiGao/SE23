@@ -1,6 +1,6 @@
 # Project Rubric
 ## #Slash Bot
-| Notes|Self Assessment | Evidence|
+| Notes|Assessment | Evidence|
 |-----|--------|---------|
 |Video|3|Evidence in https://youtu.be/NBihyIU13pw|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others, but nevertheless, here is a track record that everyone is contributing a lot)|2|Evidence in https://github.com/secheaper/slashbot/graphs/contributors|
@@ -35,7 +35,7 @@
 
 
 ## #CheapBuy
-| Notes|Self Assessment | Evidence|
+| Notes|Assessment | Evidence|
 |-----|--------|---------|
 |Video|3|The video is a clear demo. It shows the differences between the project and the prior one. Evidence in https://www.youtube.com/watch?v=-P3LxID5QzA|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others, but nevertheless, here is a track record that everyone is contributing a lot)|3|Everyone contributes to the project. Evidence in https://github.com/rliu9/cheapBuy/graphs/contributors|
@@ -69,7 +69,7 @@
 
 
 ## #ClassmateBot
-| Notes|Self Assessment | Evidence|
+| Notes|Assessment | Evidence|
 |-----|--------|---------|
 |Video|3|The video clearly illustrate main functions and fixation added by https://www.youtube.com/watch?v=DQK8Y3qUjwc|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others, but nevertheless, here is a track record that everyone is contributing a lot)|3|Workloads are distributed wisely and every member can participate in the project. https://github.com/txt/se23/graphs/contributors|
@@ -102,7 +102,7 @@
 | Short release cycles |2|https://github.com/Ashwinshankar98/ClassMateBot|
 
 ## #Simplii
-| Notes|Self Assessment | Evidence|
+| Notes|Assessment | Evidence|
 |-----|--------|---------|
 |Video|2|https://github.com/Himanshuu-Gupta/Simplii|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)|2|Evidence in https://github.com/secheaper/slashbot/graphs/contributors|
@@ -135,7 +135,7 @@
 | short release cycles |3|There are 3 phrases, and Evidence in https://github.com/Himanshuu-Gupta/Simplii|
 
 ## #TeachersPetBot
-| Notes|Self Assessment | Evidence|
+| Notes|Assessment | Evidence|
 |-----|--------|---------|
 |Video|3|There is a video in the project to introduce it with audio. And it shows how the project improves the prior one. https://www.youtube.com/watch?v=V9sb925ljWE|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)|3|The members all have contributions to the project. Evidence in https://github.com/qchen59/TeachersPetBot/graphs/contributors|
