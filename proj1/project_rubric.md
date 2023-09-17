@@ -96,9 +96,9 @@
 | Chat channel: exists|3|Discord group and Bot testing channels |
 | Test cases: a large proportion of the issues related to handling failing cases.|3 |https://github.com/Ashwinshankar98/ClassMateBot/issues|
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files|2|Using only pycharm with required patches|
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|||
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|0||
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|0||
-| Evidence that the members of the team are working across multiple places in the code base|1||
+| Evidence that the members of the team are working across multiple places in the code base|0||
 | Short release cycles |2|https://github.com/Ashwinshankar98/ClassMateBot|
 
 ## #Simplii
