@@ -47,7 +47,7 @@
 |Docs: doco generated , format not ugly | 3|Evidence in https://github.com/rliu9/cheapBuy/blob/main/docs/Code%20Description.pdf|
 |Docs: what: point descriptions of each class/function (in isolation) | 3| Evidence in https://github.com/rliu9/cheapBuy/blob/main/docs/Code%20Description.pdf |
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z| 3|Evidence in https://github.com/rliu9/cheapBuy/blob/main/docs/Code%20Description.pdf|
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing| |Evidence in |
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2|Evidence in https://github.com/rliu9/cheapBuy/blob/main/docs/Code%20Description.pdf|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3 |There are some gifs and a video in the README.md file. Evidence in https://github.com/rliu9/cheapBuy/blob/main/README.md|
 | Use of version control tools| 3| The project is developed with github. Evidence in https://github.com/rliu9/cheapBuy|
 | Use of  style checkers |3 | Evidence in https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/style_checker.yml|
