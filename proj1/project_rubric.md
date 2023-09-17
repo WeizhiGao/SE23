@@ -81,7 +81,7 @@
 |Docs: doco generated , format not ugly | 3|https://github.com/txt/se23/blob/main/docs/project2.md|
 |Docs: what: point descriptions of each class/function (in isolation) | 3| All functionalities are explained by DOCS. https://github.com/txt/se23/blob/main/docs/project2.md|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z| 3|All functionalities are tested by example shown in videos. https://github.com/Ashwinshankar98/ClassMateBot/tree/main/docs|
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing| | |
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2 |https://github.com/Ashwinshankar98/ClassMateBot/tree/main/docs |
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3 |All functionalities are tested by example shown in videos https://github.com/Ashwinshankar98/ClassMateBot/tree/main/docs|
 | Use of version control tools| 3| https://github.com/Ashwinshankar98/ClassMateBot|
 | Use of  style checkers |3 | Default checkers used by pycharm|
