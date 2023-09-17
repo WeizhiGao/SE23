@@ -59,7 +59,7 @@
 | Test cases are routinely executed| 3 |Evidence in https://app.travis-ci.com/github/het-patel99/cheapBuy/jobs/540702911|
 | The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up| 3|Evidence in https://github.com/rliu9/cheapBuy/blob/main/CONTRIBUTING.md|
 | Issues are discussed before they are closed| 3|Evidence in https://github.com/rliu9/cheapBuy/issues?q=is%3Aopen+is%3Aissue|
-| Chat channel: exists|0|Did not find the chat channe|
+| Chat channel: exists|0|Did not find the chat channel|
 | Test cases: a large proportion of the issues related to handling failing cases.|3 |Evidence in https://github.com/rliu9/cheapBuy/issues?q=is%3Aopen+is%3Aissue|
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files| 0||
 | Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|0||
@@ -159,10 +159,10 @@
 | test cases are routinely executed| 3 |The project is executed. Evidence in https://app.travis-ci.com/github/qchen59/TeachersPetBot|
  | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up| 3|Evidence in https://github.com/qchen59/TeachersPetBot/blob/main/CONTRIBUTING.md |
 | issues are discussed before they are closed| 2|Evidence in https://github.com/qchen59/TeachersPetBot/issues |
-| Chat channel: exists| 3|https://github.com/qchen59/TeachersPetBot|
+| Chat channel: exists| 2|https://github.com/qchen59/TeachersPetBot|
 | Test cases: a large proportion of the issues related to handling failing cases.|3 |https://github.com/qchen59/TeachersPetBot/tree/main/.github/workflows|
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files| 3|https://github.com/qchen59/TeachersPetBot|
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)| 3|https://github.com/qchen59/TeachersPetBot/tree/main/src|
-| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 3|https://github.com/qchen59/TeachersPetBot/tree/main/src|
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)| |https://github.com/qchen59/TeachersPetBot/tree/main/src|
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 2|https://github.com/qchen59/TeachersPetBot/tree/main/src|
 | evidence that the members of the team are working across multiple places in the code base| 3|Evidence in https://github.com/qchen59/TeachersPetBot/tree/main/src |
 | short release cycles |3|There are 3 phrases, and Evidence in https://github.com/qchen59/TeachersPetBot/tree/main|
