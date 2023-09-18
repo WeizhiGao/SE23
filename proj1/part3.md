@@ -71,6 +71,8 @@ After following the above procedure with a new created google account for sendin
 
 ## How to Avoid Pain
 
-The environment problem we met probably comes from not testing the project on both Windows and macOS system.
+The environment problem we met probably comes from not testing the project on both Windows and macOS system. For future development, we will clearly document any differences in setup, installation, or usage between the platforms. In addition, If our program requires external software or libraries, we will ensure that they are available for both macOS and Windows.
 
 The running problem we met probably comes from not testing the project for all data file. The author may only test some of the data in the project, then push all other data to GitHub.It is necessary to check the codes can run on all the data. Then it is the time to release all the data and codes. We will check this rubric seriously during the **Project 2** to avoid this problem.
+
+Besides, to ensure that other developers can run your program in the future, even if certain settings or dependencies change. We will ensure that our code has comprehensive error handling. Instead of vague error messages reported automitically by the system, we will provide detailed ones that explain what went wrong and possibly how to fix it.
