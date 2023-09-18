@@ -19,11 +19,11 @@ After these four steps, we can use the **Slashbot**. However, there were two mai
 We will describe the two challenges in the next section.
 
 ## Challenges
-### <font color=LightCoral>Environment Problem</font>
+### <font color=LightCoral>1. Environment Problem</font>
 
 <font color=red>TBD</font>
 
-### <font color=LightCoral>Running Problem</font>
+### <font color=LightCoral>2. Running Problem</font>
 
 After setting the first 3 steps well, we need to run **bot.py** in **/src** directory. However, there are some bugs in this step.
 
@@ -57,7 +57,7 @@ Directory Tree:
 
 In this way, we successfully run the project.
 
-### <font color=LightCoral>Function fail</font>
+### <font color=LightCoral>3. Function fail</font>
 
 After selecting /sendEmail from the function menu and input the destination email address, the whole program stop to run as it fails to login an gmail account due to the following reason.
 
