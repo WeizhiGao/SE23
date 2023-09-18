@@ -11,13 +11,13 @@ There are mainly five steps to deploy and run the **Slashbot**:
     4. Run a python file in Terminal
     5. Use functions from the /menu to make operations on expenses.
 
-After these five steps, we can use the **Slashbot**. However, there were two main problem while deploying **Slashbot**: 
+After these five steps, we can use the **Slashbot**. However, there were three main problem while deploying **Slashbot**: 
 
     1. (Step 1) Environment Problem: fail to install the python environment according to the requirements.txt file in macOS system
     2. (Step 4) Running Problem: fail to run bot.py file
     3. (Step 5) Function fail: fail to send email regarding all expenses history.
 
-We will describe the two challenges in the next section.
+We will describe the three challenges in the next section.
 
 ## Challenges
 ### <font color=LightCoral>1. Environment Problem</font>
