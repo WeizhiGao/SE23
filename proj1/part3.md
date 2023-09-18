@@ -14,7 +14,7 @@ After these four steps, we can use the **Slashbot**. However, there were two mai
 
     1. (Step 1) Environment Problem: fail to install the python environment according to the requirements.txt file in macOS system
     2. (Step 4) Running Problem: fail to run bot.py file
-    3. (Step 12) Function fail: fail to send email.
+    3. (Step 12) Function fail: fail to send email regarding all expenses history.
 
 We will describe the two challenges in the next section.
 
