@@ -14,6 +14,7 @@ After these four steps, we can use the **Slashbot**. However, there were two mai
 
     1. (Step 1) Environment Problem: fail to install the python environment according to the requirements.txt file in macOS system
     2. (Step 4) Running Problem: fail to run bot.py file
+    3. (Step 12) Function fail: fail to send email.
 
 We will describe the two challenges in the next section.
 
@@ -55,6 +56,17 @@ Directory Tree:
             bot.py
 
 In this way, we successfully run the project.
+
+### <font color=LightCoral>Function fail</font>
+
+After selecting /sendEmail from the function menu and input the destination email address, the whole program stop to run as it fails to login an gmail account due to the following reason.
+
+     From May 30, 2022, ​​Google no longer supports the use of third-party apps or devices to sign 
+     in to your Google Account using only your username and password.
+
+To solve this problem, user need to generate new-app-password for mail access in google security setting. The password will be generated for the, then user can use this password in gmail_password function in Python.
+
+After following the above procedure with a new created google account for sending emails, this problem is solved with success.
 
 ## How to Avoid Pain
 
