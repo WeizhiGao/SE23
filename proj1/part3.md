@@ -69,7 +69,7 @@ To solve this problem, user need to generate new-app-password for mail access in
 
 After following the above procedure with a new created google account for sending emails, this problem is solved with success.
 
-## How to Avoid Pain
+## How to Avoid Pain in Future
 
 The environment problem we met probably comes from not testing the project on both Windows and macOS system. For future development, we will clearly document any differences in setup, installation, or usage between the platforms. In addition, If our program requires external software or libraries, we will ensure that they are available for both macOS and Windows. Actively seeking cross-platform libraries or tools as our primary choices. Besides, we may regularly updating our dependency lists, so users are always informed about the required software versions and potential compatibility issues.
 
