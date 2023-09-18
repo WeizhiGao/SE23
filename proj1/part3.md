@@ -3,7 +3,7 @@
 ## Overview
 The project we choose is **Slashbot** ([Link](https://github.com/secheaper/slashbot)). It is a Telegram Bot that assists users in recording daily expenses on a local system.
 
-There are mainly four steps to deploy and run the **Slashbot**: 
+There are mainly five steps to deploy and run the **Slashbot**: 
 
     1. Install a python environment for running the project
     2. Install Telegram desktop application and login in
@@ -11,7 +11,7 @@ There are mainly four steps to deploy and run the **Slashbot**:
     4. Run a python file in Terminal
     5. Use functions from the /menu to make operations on expenses.
 
-After these four steps, we can use the **Slashbot**. However, there were two main problem while deploying **Slashbot**: 
+After these five steps, we can use the **Slashbot**. However, there were two main problem while deploying **Slashbot**: 
 
     1. (Step 1) Environment Problem: fail to install the python environment according to the requirements.txt file in macOS system
     2. (Step 4) Running Problem: fail to run bot.py file
