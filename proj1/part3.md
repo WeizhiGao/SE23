@@ -21,7 +21,7 @@ We will describe the two challenges in the next section.
 ## Challenges
 ### <font color=LightCoral>1. Environment Problem</font>
 
-<font color=red>TBD</font>
+<font color=red>For macOS, we encountered difficulties installing the specified version of matplotlib (i.e., version 3.4.3). Consequently, we opted to install the latest version of matplotlib. However, during the execution of bot.py, any invocation of the matplotlib library led to a program crash. To address this issue, we changed the backend type of the matplotlib library to 'Agg'. This adjustment enabled smooth execution of the program on macOS.</font>
 
 ### <font color=LightCoral>2. Running Problem</font>
 
